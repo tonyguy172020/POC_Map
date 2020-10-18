@@ -1,0 +1,23 @@
+<svg width="55" height="55" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="57" height="57" id="canvas_background" fill="#f0f0f0"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>logo1</title>
+  <path id="svg_2" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m3.89999,22.13s15.36,-3.22 24.74,5.48s21.82,4.84 21.82,4.84"/>
+  <path id="svg_3" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m3.49999,30.4s13.34,-8.27 25.13,-3.3s22.16,-2.92 22.16,-2.92"/>
+  <path id="svg_4" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m5.95999,38.3s9.71,-12.33 22.48,-11.7s19.83,-10.32 19.83,-10.32"/>
+  <path id="svg_5" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m11.03999,44.87s4.9,-14.91 17.12,-18.68s15.1,-16.48 15.1,-16.48"/>
+  <path id="svg_6" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m18.01999,49.33s-0.49,-15.69 9.7,-23.42s8.56,-20.65 8.56,-20.65"/>
+  <path id="svg_7" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m26.10999,51.15s-5.83,-14.57 1.11,-25.32s1,-22.33 1,-22.33"/>
+  <path id="svg_8" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m34.31999,50.08s-10.46,-11.7 -7.62,-24.17s-6.74,-21.33 -6.74,-21.33"/>
+  <path id="svg_9" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m41.66999,46.25s-13.83,-7.41 -15.42,-20.1s-13.62,-17.74 -13.62,-17.74"/>
+  <path id="svg_10" fill="#5cc1a5" stroke="#DD22A9DD" stroke-linecap="round" stroke-linejoin="round" stroke-width="5px" opacity="0.6" d="m47.26999,40.14s-15.54,-2.23 -21.37,-13.61s-18.86,-12 -18.86,-12"/>
+ </g>
+</svg>
